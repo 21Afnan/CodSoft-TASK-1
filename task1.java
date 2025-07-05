@@ -56,7 +56,13 @@ public class Task1 {
 }
 
 
-
+public class Main {
+    public static void main(String[] args) {
+     Task1 task=new Task1();
+task.playGame();
+        task.score();
+        }
+    }
 
 
 
